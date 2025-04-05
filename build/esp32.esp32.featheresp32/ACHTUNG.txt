@@ -1,0 +1,16 @@
+Die Datei muss immer geteilt bleiben, sonst funktioniert das Update nicht mehr:
+
+https://1drv.ms/u/s!AlcfDgO3w_QnpsgF6XLmbWlKBUGhXw?e=hZlTOH
+
+Es gibt im United Domains DNS eine Weiterleitung von 
+
+s2poolkit.s2.co.at auf diesen Link.
+
+
+Die URL oben führt hierher:
+
+https://onedrive.live.com/?authkey=%21AOly5m1pSgVBoV8&cid=27F4C3B7030E1F57&id=27F4C3B7030E1F57%21631813&parId=27F4C3B7030E1F57%21631802&o=OneUp
+
+Hier der direkte Downloadlink:
+
+https://onedrive.live.com/download?cid=27F4C3B7030E1F57&resid=27F4C3B7030E1F57%21631813&authkey=%21AOly5m1pSgVBoV8
